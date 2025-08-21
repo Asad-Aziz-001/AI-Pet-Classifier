@@ -4,6 +4,8 @@ A modern web application that uses deep learning to classify images of cats and 
 
 Built with Streamlit and TensorFlow, this app provides an intuitive interface for pet image classification.
 
+# **Live App Link 🔗:** https://ai-pet-classifier-rjgrtbjr6d6keilh6b8vhm.streamlit.app/
+
 # **🌟 Features**
 
 Smart Classification: Upload any image and instantly determine if it's a cat or dog
